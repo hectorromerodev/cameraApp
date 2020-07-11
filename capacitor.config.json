@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.merakideveloper.cameraapp",
   "appName": "cameraApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
